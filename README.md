@@ -15,7 +15,7 @@ Program 3: Fibonacci
 Program 4: 
 Writing a Gamma Function
 
-Homework_III.pdf
+Homework_III.pdf:
 Computing Network Diameter of An Arbitrary Network
 
 Homework_IV.pdf:
